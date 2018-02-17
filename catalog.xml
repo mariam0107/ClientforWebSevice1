@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://laptop-u2qon3qf:8080/MyWebScreenShotSimple/ScreenShotSimple?wsdl" uri="xml-resources/web-service-references/ScreenShotSimple/wsdl/laptop-u2qon3qf_8080/MyWebScreenShotSimple/ScreenShotSimple.wsdl"/>
+    <system systemId="http://laptop-u2qon3qf:8080/MyWebScreenShotSimple/ScreenShotSimple?xsd=1" uri="xml-resources/web-service-references/ScreenShotSimple/wsdl/laptop-u2qon3qf_8080/MyWebScreenShotSimple/ScreenShotSimple.xsd_1.xsd"/>
+</catalog>
